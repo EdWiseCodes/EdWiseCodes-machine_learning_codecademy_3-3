@@ -1,4 +1,4 @@
-machine_learning_codecademy_3-3
+# machine_learning_codecademy_3-3
 
 As part of the Codecademy Data Science course, I was tasked with building machine learning models using data from the dating
 application OKCupid. As the last project in the course where I was provided with data to work with (rather than sourcing it myself), this project was intended as an opportunity to demonstrate the programming, data visualisation, data analysis, and machine learning competencies I'd developed over the course. 
